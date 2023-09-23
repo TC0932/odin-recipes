@@ -1,1 +1,1 @@
-# odin-recipes
+The goal of this project will be to build a basic website containing a few recipes.
